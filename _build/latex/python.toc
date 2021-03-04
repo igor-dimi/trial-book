@@ -1,0 +1,2 @@
+\babel@toc {english}{}
+\contentsline {chapter}{\numberline {1}My book section}{3}{chapter.1}%
